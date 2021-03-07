@@ -1,4 +1,4 @@
 dependencies {
-    implementation 'com.arthenica:mobile-ffmpeg-full-gpl:4.4.LTS'
+    implementation 'com.arthenica:mobile-ffmpeg-full-gpl:4.4'
 
 }
